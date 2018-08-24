@@ -1,0 +1,12 @@
+*.pyc
+*.o
+*.d
+*.bin
+*.warnings.txt
+*.xml
+*.iml
+*.a
+*.so
+*.so.*
+*.mexa64
+

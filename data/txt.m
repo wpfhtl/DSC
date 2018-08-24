@@ -1,8 +1,8 @@
 clear;
 clc;
 
-root = '/home/xwhu/dataset/SRD/Train/shadow/';
-%root = '/home/xwhu/dataset/ISTD/train_argu/train_A/';
+root = '/home/wpf/data/SRD/Train/shadow/';
+%root = '/home/wpf/data/ISTD/train_argu/train_A/';
 
 res = dir(fullfile(root,'*.jpg'));
 

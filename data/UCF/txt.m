@@ -2,7 +2,7 @@ clear;
 clc;
 
 root = '/home/xwhu/dataset/UCF-shadow/train_argu/';
-%root = '/home/xwhu/dataset/UCF-shadow/test';
+%root = '/home/xwhu/data/UCF-shadow/test';
 
 res = dir(fullfile(root,'*.jpg'));
 gt = dir(fullfile(root,'*.png'));
